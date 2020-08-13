@@ -7,8 +7,8 @@ const USER = "user"
 const COLLECTION = "collection"
 const DAILY = "daily"
 const RANDOM = "random"
-const WIDTH = 1080
-const HEIGHT = 720
+const WIDTH = 2160
+const HEIGHT = 400
 const DEFAULT_STYLES = {
   backgroundRepeat: "no-repeat",
   backgroundSize: "cover",
